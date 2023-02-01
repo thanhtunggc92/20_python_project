@@ -6,10 +6,10 @@ import smtplib
 email_sender='timmynguyen210792@gmail.com'
 password='zhbkbmxhbnnruhmn'
 
-email_receiver='nguyentruongthanhtung@gmail.com'
+email_receiver='mylinh93105@gmail.com'
 
-subject='the subject has been created'
-body='the first project in 20 beginer project email sender'
+subject='Love You <3'
+body='Test email: wo ai ni, te a mo, I love'
 
 em=EmailMessage()
 em['From']=email_sender
